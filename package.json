@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kaicui",
-  "license": "Apache"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbpmrck/fis3-postpackager-info-output.git"
+  },
+  "keywords": [
+    "fis3",
+    "pack",
+    "build"
+  ],
+  "bugs": {
+    "url": "https://github.com/wbpmrck/fis3-postpackager-info-output/issues"
+  },
+  "homepage": "https://github.com/wbpmrck/fis3-postpackager-info-output#readme"
 }
