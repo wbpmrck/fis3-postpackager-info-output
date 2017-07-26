@@ -1,6 +1,6 @@
 {
   "name": "fis3-postpackager-info-output",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "打包完成之后，输出一些元数据信息",
   "main": "index.js",
   "scripts": {
